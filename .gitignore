@@ -1,0 +1,6 @@
+/Lib
+/Scripts
+
+# Environments
+.venv
+.env
