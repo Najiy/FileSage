@@ -12,7 +12,7 @@ FileSage is an intelligent file analysis and query engine that ingests text docu
 
 ## 🚀 Usage
 
-.env
+crcete .env with
 
 OPENAI_API_KEY=your-key-here
 
