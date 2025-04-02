@@ -13,7 +13,7 @@ from docx import Document as DocxDocument
 
 load_dotenv()
 
-ROOT_DIR = '../Table-of-Contents'
+ROOT_DIR = '../DATA'
 DB_DIR = 'db'
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small")

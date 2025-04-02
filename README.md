@@ -1,6 +1,6 @@
 # 🧠 FileSage
 
-FileSage is an intelligent file analysis and query engine that ingests text documents, code files, markdown, PDFs, presentations, Word docs, and images. It uses OCR and language models to extract and index content, enabling natural language search with output as rich Word and PDF reports — including referenced images.
+FileSage is an intelligent file analysis and query engine that ingests text documents, code files, markdown, PDFs, presentations, Word docs, and images. It uses OCR and language models to extract and index content, enabling natural language search with output as rich Word and PDF reports — including referenced images. 
 
 ## ✨ Features
 
@@ -15,6 +15,8 @@ FileSage is an intelligent file analysis and query engine that ingests text docu
 .env
 
 OPENAI_API_KEY=your-key-here
+
+put all files in DATA folder.
 
 ```bash
 
